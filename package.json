@@ -2,7 +2,20 @@
   "name": "atlas-dark",
   "displayName": "ATLAS Dark",
   "description": "ATLAS - A dark theme for VSCode!",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "Atlas-Knight",
+  "icon": "images/AtlasKnight.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g-doty/ATLAS_VSCode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "Contrast",
+    "ATLAS"
+  ],
   "engines": {
     "vscode": "^1.105.0"
   },
