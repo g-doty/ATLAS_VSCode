@@ -1,6 +1,6 @@
 # ATLAS - A Dark Theme for VSCode
 
-![preview image](images/preview.png)
+![preview image](https://github.com/g-doty/ATLAS_VSCode/blob/feature/InitialCommit/images/preview.png?raw=true)
 
 ## Github
 
